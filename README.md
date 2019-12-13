@@ -1,6 +1,6 @@
 # Deep_Learning from Scratch
 
-This repository contains various machine learning/deep learning models and algorithms from scratch.
+This repository contains various machine learning/deep learning models and algorithms from scratch using tensorflow.
 
 ## Install
 These projects requires Python and the following Python libraries installed:
